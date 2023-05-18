@@ -9,7 +9,7 @@ TicTacToe is a Python program that allows you to play the classic game of TicTac
 - Interactive command-line interface.
 - Visual representativon of the game board.
 
-## Installation 
+## Installation
 
 1. Clone the repository to your local machine:
 ```shell
@@ -17,11 +17,18 @@ git clone https://github.com/Liss4rd/TicTacToe.git
 ```
 2. Navigate to the project directory:
 ```shell
-cd TicTacToe
+cd AI_TicTacToe_Game
 ```
 3. (Optional) Create and activate a virtual environment:
 ```shell
 python -m venv env
+```
+Windows:
+```shell
+env\Scripts\activate
+```
+MacOS:
+```shell
 source env/bin/activate
 ```
 
