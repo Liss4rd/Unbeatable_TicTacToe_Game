@@ -28,3 +28,15 @@ source env/bin/activate
 ```shell
 pip install -r requirements.txt
 ```
+
+## Usage
+To start a game of TicTacToe, run the following command:
+```shell
+python game.py
+```
+Follow the on-screen prompts to select the first move on the game board.
+The game will continue until a player wins or it ends in a tie.
+
+## Examples
+Here's an example of how the program looks when running:
+![AI_TicTacToe_Example](https://github.com/Liss4rd/AI_TicTacToe_Game/assets/66858250/5b219a6b-dbd5-42de-9bd3-43a077527795)
