@@ -24,10 +24,6 @@ cd TicTacToe
 python -m venv env
 source env/bin/activate
 ```
-4. Install the required dependencies:
-```shell
-pip install -r requirements.txt
-```
 
 ## Usage
 To start a game of TicTacToe, run the following command:
