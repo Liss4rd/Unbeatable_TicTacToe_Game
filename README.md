@@ -13,7 +13,7 @@ TicTacToe is a Python program that allows you to play the classic game of TicTac
 
 1. Clone the repository to your local machine:
 ```shell
-git clone https://github.com/Liss4rd/TicTacToe.git
+git clone https://github.com/Liss4rd/AI_TicTacToe_Game.git
 ```
 2. Navigate to the project directory:
 ```shell
