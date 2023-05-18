@@ -1,6 +1,6 @@
 # AI TicTacToe Game
 
-TicTacToe is a Python program that allows you to play the classic game of TicTacToe against an unbeatable AI opponent.
+The AI TicTacToe Game is a Python program that allows you to play the classic game of TicTacToe against an unbeatable AI opponent.
 
 ## Features
 
