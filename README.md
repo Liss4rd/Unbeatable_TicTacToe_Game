@@ -40,3 +40,12 @@ The game will continue until a player wins or it ends in a tie.
 ## Examples
 Here's an example of how the program looks when running:
 ![AI_TicTacToe_Example](https://github.com/Liss4rd/AI_TicTacToe_Game/assets/66858250/5b219a6b-dbd5-42de-9bd3-43a077527795)
+
+## Contributing
+Contributions to the AI_TicTacToe_Game project are welcome! If you have any bug reports, suggestions, or enhancements, please submit them as issues or pull requests on the GitHub repository. 
+
+## License
+Please note that this project is a part of a portfolio and does not have any formal license.
+
+## Contact
+For any questions or inquiries, please feel free to reach out to me at lizzypro72@gmail.com.
