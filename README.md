@@ -1,13 +1,13 @@
-# AI TicTacToe Game
+# Unbeatable TicTacToe Game
 
-The AI TicTacToe Game is a Python program that allows you to play the classic game of TicTacToe against an unbeatable AI opponent.
+The Unbeatable TicTacToe Game is a Python program that allows you to play the classic game of TicTacToe against an unbeatable opponent.
 
 ## Features
 
 - Play against a human player or an AI player.
 - Three levels of AI difficulty: random moves, smart moves, and unbeatable moves.
 - Interactive command-line interface.
-- Visual representativon of the game board.
+- Visual representation of the game board.
 
 ## Installation
 
